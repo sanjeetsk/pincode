@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pincode/static/css/main.589ff166.css",
+    "main.js": "/pincode/static/js/main.9b38ba54.js",
+    "index.html": "/pincode/index.html",
+    "main.589ff166.css.map": "/pincode/static/css/main.589ff166.css.map",
+    "main.9b38ba54.js.map": "/pincode/static/js/main.9b38ba54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.589ff166.css",
+    "static/js/main.9b38ba54.js"
+  ]
+}
