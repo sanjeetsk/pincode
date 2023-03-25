@@ -1,4 +1,4 @@
-##Task
+## Task
 >Create a form with an input field where the user can enter a 6-digit Indian Postal Code. When the user submits the form, fetch the corresponding data from the API and display it on the page.
 >You need to create a Pincode Lookup app that uses the Indian Postal Pincode API to retrieve the details of a pincode.
 >The app should have an input field where the user can enter a pincode. There should also be a "Lookup" button that the user can click to fetch the details of the pincode.
@@ -13,7 +13,7 @@
 >The details should be displayed in a UI as shown in the figma -
 >https://www.figma.com/file/3cNCfMB8eiGezRAkt7T91s/Contest-3
 
-##Requirements
+## Requirements
 >The app should also allow the user to filter the results by post office name using an input field. The app should update the Ui dynamically as the user types in the filter input field.
 
 >Also handle errors accordingly- ie - if the postal code is not 6 digits then don't fetch the API rather show a message or an alert that the code is not 6 digits. Similarly if there is an error in the response, show that error on the screen. Also if the filtered Array has no object inside it after filtering even then show a message like “Couldn’t find the postal data you’re looking for…”
@@ -22,7 +22,7 @@
 
 >API endpoint - https://api.postalpincode.in/pincode/${pincode}
 
-##Marking Scheme (100 Marks)
+## Marking Scheme (100 Marks)
 >Fetching of API Data on click of button - 25
 >UI - 25
 >Filter functionality - 15
